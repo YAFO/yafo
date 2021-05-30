@@ -1,9 +1,8 @@
 ### Hi there, I'm [YAFO](GITHUB.COM/YAFO) 👋
 
 
-- 🔭 I’m currently working in SHanghai.
+- 🔭 I’m currently working in Shanghai.
 - 🌱 I’m currently learning JS.
-- 
 
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
