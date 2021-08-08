@@ -12,6 +12,13 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yafo&theme=calm&hide_border=true">
 </p>
 </details>
+<details open>
+ <summary> 😇 <b>Languages</b>: </summary>
+ <br>
+ <p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yafo&theme=calm&hide_border=true">
+ </p>
+</details>
 
 
 
